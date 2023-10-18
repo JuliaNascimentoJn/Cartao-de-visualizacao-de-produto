@@ -76,6 +76,9 @@ main{
     gap: 10px;
     cursor: pointer;
 }
+.button:hover{
+    background-color: #285544;
+}
 .perfume{
     text-transform: uppercase;
     width: 250px;
